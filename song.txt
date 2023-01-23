@@ -4,9 +4,8 @@ half
 of 
 favorite
 song
---------------- 
+-------------------- 
 and 
-now
 here 
 is 
 second 
@@ -15,3 +14,4 @@ of
 favorite 
 song
 ---------------------
+changed smth here
