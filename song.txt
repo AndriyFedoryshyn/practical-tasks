@@ -2,6 +2,16 @@ here
 is
 half
 of 
-favourite
+favorite
 song
 --------------- 
+and 
+now
+here 
+is 
+second 
+half
+of 
+favorite 
+song
+---------------------
